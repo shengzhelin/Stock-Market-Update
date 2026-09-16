@@ -1,5 +1,5 @@
 {
-  "latest_version": "V40.17.12.3.3",
-  "release_notes": "修正 Nuitka 打包後個股研究 K 線無法顯示的問題；改善歷史行情備援機制；新增研究資料尚未更新時的操作提示；改善 OneFile 執行環境相容性。",
-  "download_url": "https://github.com/shengzhelin/Stock-Market-Update/releases/download/V40.17.12.3.3/_V40.17.12.3.3.7z"
+  "latest_version": "V40.17.12.3.4",
+  "release_notes": "調整新版 NEW! 提示顯示位置；移除 Nuitka K 線開發診斷輸出；保留已驗證的歷史行情備援機制；改善 OneFile 正式版執行環境；整理正式發布版本。",
+  "download_url": "https://github.com/shengzhelin/Stock-Market-Update/releases/download/V40.17.12.3.4/_V40.17.12.3.4.7z"
 }
