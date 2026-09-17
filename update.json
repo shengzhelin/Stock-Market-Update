@@ -1,5 +1,5 @@
 {
-  "latest_version": "V40.17.12.3.4",
-  "release_notes": "調整新版 NEW! 提示顯示位置；移除 Nuitka K 線開發診斷輸出；保留已驗證的歷史行情備援機制；改善 OneFile 正式版執行環境；整理正式發布版本。",
-  "download_url": "https://github.com/shengzhelin/Stock-Market-Update/releases/download/V40.17.12.3.4/_V40.17.12.3.4.7z"
+  "latest_version": "V40.17.13.4.2",
+  "release_notes": "強化 AI 三階段分析與交叉審查；改善 AI 分析結果一致性；改善研究面向完整度與資料缺口顯示；修正風險資料不足時的顯示語意；優化初學者操作建議文字；統一台股紅漲綠跌顯示；改善 OneFile 設定與資料持久化；OpenAI 與 Gemini 改為平行分析，縮短雙 AI 等待時間。",
+  "download_url": "https://github.com/shengzhelin/Stock-Market-Update/releases/download/V40.17.13.4.2/V40.17.13.4.2.7z"
 }
