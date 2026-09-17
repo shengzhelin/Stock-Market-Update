@@ -1,5 +1,5 @@
 {
-  "latest_version": "V40.17.13.4.2",
-  "release_notes": "強化 AI 三階段分析與交叉審查；改善 AI 分析結果一致性；改善研究面向完整度與資料缺口顯示；修正風險資料不足時的顯示語意；優化初學者操作建議文字；統一台股紅漲綠跌顯示；改善 OneFile 設定與資料持久化；OpenAI 與 Gemini 改為平行分析，縮短雙 AI 等待時間。",
-  "download_url": "https://github.com/shengzhelin/Stock-Market-Update/releases/download/V40.17.13.4.2/V40.17.13.4.2.7z"
+  "latest_version": "V40.17.13.4.3",
+  "release_notes": "修正程式版本更新資訊可能取得舊版資料的問題；改善 GitHub 更新資訊即時同步與版本比較邏輯；當伺服器更新資訊比目前程式版本舊時，不再錯誤顯示為最新版本；改善更新檢查失敗與更新資訊尚未同步時的提示。",
+  "download_url": "https://github.com/shengzhelin/Stock-Market-Update/releases/download/V40.17.13.4.3/V40.17.13.4.3.7z"
 }
