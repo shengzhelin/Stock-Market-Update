@@ -1,5 +1,5 @@
 {
-  "latest_version": "V40.17.13.4.3",
-  "release_notes": "修正程式版本更新資訊可能取得舊版資料的問題；改善 GitHub 更新資訊即時同步與版本比較邏輯；當伺服器更新資訊比目前程式版本舊時，不再錯誤顯示為最新版本；改善更新檢查失敗與更新資訊尚未同步時的提示。",
-  "download_url": "https://github.com/shengzhelin/Stock-Market-Update/releases/download/V40.17.13.4.3/V40.17.13.4.3.7z"
+  "latest_version": "V40.18.66",
+  "release_notes": "新增 data 資料目錄與 backup 備份管理；資料庫清理前備份自動保留最近 5 份；改善程式啟動延遲載入與單一執行個體保護；未來趨勢新增下一交易日（1 日）預測與實際驗證；改善交易日樣本驗證與非交易日資料清理。",
+  "download_url": "https://github.com/shengzhelin/Stock-Market-Update/releases/download/V40.18.66/V40.18.66.7z"
 }
