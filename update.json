@@ -1,5 +1,5 @@
 {
-  "latest_version": "V40.18.69",
-  "release_notes": "修正候選排名進入即時決策後頁籤狀態不同步；修正候選股整合分析明細 AI 資料狀態可能顯示無結果；修正 Dual AI 分析流程錯誤與一鍵完整整合分析完成狀態判斷；新增刪除單一股票與全部股票驗證資料功能，並改善整體穩定性。",
-  "download_url": "https://github.com/shengzhelin/Stock-Market-Update/releases/download/V40.18.69/V40.18.69.7z"
+  "latest_version": "V40.18.70",
+  "release_notes": "改善決策追蹤與驗證樣本建立機制；避免尚未取得完整日 K 時建立不完整的正式驗證樣本；修正個股研究初始載入相關問題；優化個股研究日 K 線與成交量圖表顯示；改善圖表價格、成交量單位與日期顯示；調整啟動載入流程與整體穩定性。",
+  "download_url": "https://github.com/shengzhelin/Stock-Market-Update/releases/download/V40.18.70/V40.18.70.7z"
 }
