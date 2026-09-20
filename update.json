@@ -1,5 +1,5 @@
 {
-  "latest_version": "V40.18.66",
-  "release_notes": "新增 data 資料目錄與 backup 備份管理；資料庫清理前備份自動保留最近 5 份；改善程式啟動延遲載入與單一執行個體保護；未來趨勢新增下一交易日（1 日）預測與實際驗證；改善交易日樣本驗證與非交易日資料清理。",
-  "download_url": "https://github.com/shengzhelin/Stock-Market-Update/releases/download/V40.18.66/V40.18.66.7z"
+  "latest_version": "V40.18.69",
+  "release_notes": "修正候選排名進入即時決策後頁籤狀態不同步；修正候選股整合分析明細 AI 資料狀態可能顯示無結果；修正 Dual AI 分析流程錯誤與一鍵完整整合分析完成狀態判斷；新增刪除單一股票與全部股票驗證資料功能，並改善整體穩定性。",
+  "download_url": "https://github.com/shengzhelin/Stock-Market-Update/releases/download/V40.18.69/%E8%82%A1%E5%B8%82%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7.exe"
 }
