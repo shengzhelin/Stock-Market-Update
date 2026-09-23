@@ -1,5 +1,5 @@
 {
-  "latest_version": "V40.18.70",
-  "release_notes": "改善決策追蹤與驗證樣本建立機制；避免尚未取得完整日 K 時建立不完整的正式驗證樣本；修正個股研究初始載入相關問題；優化個股研究日 K 線與成交量圖表顯示；改善圖表價格、成交量單位與日期顯示；調整啟動載入流程與整體穩定性。",
-  "download_url": "https://github.com/shengzhelin/Stock-Market-Update/releases/download/V40.18.70/V40.18.70.7z"
+  "latest_version": "V40.18.71",
+  "release_notes": "改善每日自動驗證排程設定機制；修正 Windows 工作排程器「錯過排程後儘快執行」設定問題；改善排程建立後的狀態確認與每日驗證排程穩定性；本版本改採 PyInstaller 建立 Windows 執行檔，改善程式打包穩定性與發布流程；保留原有股票分析、AI 分析與研究功能。",
+  "download_url": "https://github.com/shengzhelin/Stock-Market-Update/releases/download/V40.18.71/V40.18.71.7z"
 }
