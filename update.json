@@ -1,5 +1,5 @@
 {
-  "latest_version": "V40.18.71",
-  "release_notes": "改善每日自動驗證排程設定機制；修正 Windows 工作排程器「錯過排程後儘快執行」設定問題；改善排程建立後的狀態確認與每日驗證排程穩定性；本版本改採 PyInstaller 建立 Windows 執行檔，改善程式打包穩定性與發布流程；保留原有股票分析、AI 分析與研究功能。",
-  "download_url": "https://github.com/shengzhelin/Stock-Market-Update/releases/download/V40.18.71/V40.18.71.7z"
+  "latest_version": "V40.18.72",
+  "release_notes": "改善個股研究股票切換與研究資料顯示穩定性；優化買賣風險評估流程，改善全部自選股評估、單股切換及不同評估週期切換後的資料顯示；優化 OpenAI、Gemini 與本機分析資訊呈現；改善決策追蹤首次載入、交易日快取與部分 Lazy Loading 效能；移除正式版開發階段系統診斷與 DB 診斷介面；整體穩定性與操作體驗改善。",
+  "download_url": "https://github.com/shengzhelin/Stock-Market-Update/releases/download/V40.18.72/V40.18.72.7z"
 }
